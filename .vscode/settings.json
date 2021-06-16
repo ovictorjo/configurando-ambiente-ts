@@ -1,0 +1,10 @@
+{
+    "code-runner.executorMap": {
+        
+        "typescript": "npx ts-node --files",
+    }
+}
+
+//more speed - "typescript": "npx ts-node --files --transpile-only"
+
+//command windows - "typescript": "cls && npx ts-node --files"
